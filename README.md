@@ -20,6 +20,3 @@ A simple client-side journal search tool that allows users to search for journal
 
 ### Dependencies
 This tool runs purely on HTML, CSS, and JavaScript—no additional libraries required.
-
-### License
-This project is licensed under the MIT License.
