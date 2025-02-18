@@ -1,5 +1,5 @@
 # Journal Search Tool
-A simple client-side journal search tool that allows users to search for journals by name, and will display the journal, subject, and subcategory. 
+A simple client-side journal search tool that allows users to search for journals by name, and will display the journal, subject, and subcategory. Used to search the <a href="https://www.pjip.org/subjects.html">PJIP journal database.</a>
 
 ### Features
 - Real-time search with a debounce mechanism to optimise performance
