@@ -2,8 +2,8 @@ document.addEventListener("DOMContentLoaded", () => {
     let journalData = [];
     let debounceTimeout;
 
-    // Load the JSON data
-    fetch("journals.json")
+    // Load the JSON data - this example uses data from the PJIP, along with links to PJIP journal profiles. 
+    fetch("jrnldata.json")
         .then(response => response.json())
         .then(data => {
             journalData = data;
