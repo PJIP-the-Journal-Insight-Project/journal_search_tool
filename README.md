@@ -2,8 +2,8 @@
 A simple client-side journal search tool that allows users to search for journals by name, and will display the journal, subject, and subcategory. 
 
 ### Features
-- Real-time search with a debounce mechanism to optimize performance
-- Sorting algorithm that prioritizes exact matches, whole-word matches, and alphabetical order
+- Real-time search with a debounce mechanism to optimise performance
+- Sorting algorithm that prioritises exact matches, whole-word matches, and alphabetical order
 - Loading spinner for better user experience
 - Message handling for empty or excessive search results
 
