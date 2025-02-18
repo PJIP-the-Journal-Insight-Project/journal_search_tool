@@ -1,0 +1,37 @@
+[
+    {
+        "name": "<a href=\"https://www.pjip.org/journal-profile.html?search.search=1874-6349\" target=\"_blank\" rel=\"noopener noreferrer\">Acta Analytica</a>",
+        "subject": "Philosophy",
+        "subcategory": "General Philosophy",
+        "area": "GNRL",
+        "sublink": "<a href=ranking-index.html?searchCols=[null,null,{%22search%22:%22GNRL%22}]>Rankings</a>"
+    },
+    {
+        "name": "<a href=\"https://www.pjip.org/History-journal-profile.html?search.search=2253-797X\" target=\"_blank\" rel=\"noopener noreferrer\">Culture and History Digital Journal</a>",
+        "subject": "History",
+        "subcategory": "Cultural and Social History",
+        "area": "CaSH",
+        "sublink": "<a href=History-journal-rankings.html?searchCols=[null,null,{%22search%22:%22CaSH%22}]>Rankings</a>"
+    },
+    {
+        "name": "<a href=\"https://www.pjip.org/Medical-journal-profile.html?search.search=1540-7586\" target=\"_blank\" rel=\"noopener noreferrer\">Journal of Psychosocial Oncology</a>",
+        "subject": "Medical",
+        "subcategory": "Oncology",
+        "area": "ONCO",
+        "sublink": "<a href=Medical-journal-rankings.html?searchCols=[null,null,{%22search%22:%22ONCO%22}]>Rankings</a>"
+    },
+    {
+        "name": "<a href=\"https://www.pjip.org/Biology-journal-profile.html?search.search=1432-1203\" target=\"_blank\" rel=\"noopener noreferrer\">Human Genetics</a>",
+        "subject": "Biology",
+        "subcategory": "Human Genetics",
+        "area": "HMGN",
+        "sublink": "<a href=Biology-journal-rankings.html?searchCols=[null,null,{%22search%22:%22HMGN%22}]>Rankings</a>"
+    },
+    {
+        "name": "<a href=\"https://www.pjip.org/Engineering-journal-profile.html?search.search=1673-3363\" target=\"_blank\" rel=\"noopener noreferrer\">Caikuang yu Anquan Gongcheng Xuebao/Journal of Mining and Safety Engineering</a>",
+        "subject": "Engineering",
+        "subcategory": "Geotechnical Engineering",
+        "area": "GTCE",
+        "sublink": "<a href=Engineering-journal-rankings.html?searchCols=[null,null,{%22search%22:%22GTCE%22}]>Rankings</a>"
+    }
+]
